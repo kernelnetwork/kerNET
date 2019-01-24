@@ -4,7 +4,7 @@
 
 Dependencies: 
 
-- PyTorch 1.0.0
+- PyTorch 1.0
 - numpy 1.15
 - Python 3.6
 
